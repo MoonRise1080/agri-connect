@@ -59,9 +59,10 @@ Farming Equipment Exchange:
 -	A marketplace for used and new farming tools/machinery.
 
 -	Users can buy or sell equipment with proper condition status and pricing.
--	
 
-Technology Stack
+---
+
+### Technology Stack
 
 The technology stack used for developing AgriConnect includes the following components:
 
